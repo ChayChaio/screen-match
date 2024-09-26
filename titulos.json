@@ -1,0 +1,26 @@
+[
+  {
+    "Nombre": "Titanic",
+    "FechaDeLanzamiento": 1997,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 194
+  },
+  {
+    "Nombre": "Shrek",
+    "FechaDeLanzamiento": 2001,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 90
+  },
+  {
+    "Nombre": "Wristcutters: A Love Story",
+    "FechaDeLanzamiento": 2006,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeEvaluaciones": 0,
+    "DuracionEnMinutos": 88
+  }
+]
